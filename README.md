@@ -1,4 +1,4 @@
-# GSE278446 NeuroNovelty — FINAL RESEARCH PIPELINE
+# GSE278446 NeuroNovelty
 
 ## Status
 
