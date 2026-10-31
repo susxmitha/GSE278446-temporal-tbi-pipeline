@@ -1,0 +1,4 @@
+GSE278446 NeuroNovelty
+Pipeline version: GSE278446_NeuroNovelty_FINAL_1.0
+Analysis output version: GSE278446_v4_final
+Date packaged: 2026-10-03

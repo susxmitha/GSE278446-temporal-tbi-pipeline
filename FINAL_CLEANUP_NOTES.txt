@@ -1,0 +1,14 @@
+FINAL CLEANUP / HANDOFF NOTES
+
+1. Keep the original GSE278446_RAW folder unchanged.
+2. Never delete GSM8546673 from the raw source.
+3. GSM8546673 is excluded analytically because it is an exact source-level duplicate of GSM8546664.
+4. The final pipeline writes to GSE278446_v4_final so old v3 outputs cannot be silently mixed into the final run.
+5. Do not manually edit generated result CSVs before manuscript preparation.
+6. If a stage fails, fix the pipeline or environment and rerun from Stage 00.
+7. Do not copy individual old-stage outputs into the v4_final result directory.
+8. Stage 31 is the final reproducibility gate.
+9. A PASS at Stage 31 means the code/output/provenance checks passed; it does not by itself establish biological novelty.
+10. Zero enrichment results remain zero enrichment results.
+11. Zero literature hits remain absence of retrieved evidence, not proof of novelty.
+12. The manuscript should explicitly report the 28-source / 27-analysis distinction and the 3/3 independent common-window validation.
